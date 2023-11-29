@@ -1,0 +1,17 @@
+
+
+Navigation einrichten mit Fragmenten und Argumenten
+- ✅ Fragmente erstellen(mind. 2)
+- ✅ nav_graph erstellen + Fragmente hinzufügen
+- ✅ NavHostFragment einrichten(in der activity_main.xml)
+
+- ✅ safeargs im gradle einrichten(Projekt- und Modulgradle)
+- ✅ Parameter und action(Pfeil) einrichten in nav_graph
+- Navigation programmieren und testen
+    - ✅ (Senden) Navigation in FirstFragment + Argumente
+    - ✅ (Empfangen) Daten empfangen in SecondFragment
+
+
+
+
+
